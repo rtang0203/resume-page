@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Some of my skills.",
     "education":[
       {
         "school":"Cornell University?",
@@ -81,10 +81,6 @@
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
         "name":"ReactJs",
         "level":"50%"
       },
@@ -97,12 +93,16 @@
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
         "name":"JAVA",
         "level":"80%"
+      },
+      {
+        "name":"MATLAB",
+        "level":"55%"
+      },
+      {
+        "name":"CAD",
+        "level":"55%"
       }
     ]
   },
