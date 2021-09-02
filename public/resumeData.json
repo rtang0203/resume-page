@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Randy Tang",
-    "description":"I am a mechanical engineer working on my software and web development skills.",
+    "description":"I am a mechanical engineer working on my software and web development skills",
     "image":"headshot.jpg",
     "bio":"I study computer science and mechanical engineering. I am passionate about design and aesthetics.",
     "contactmessage":"Contact me! Ask me anything.",
@@ -49,7 +49,7 @@
     "skillmessage":"Some of my skills.",
     "education":[
       {
-        "school":"Cornell University?",
+        "school":"Cornell University",
         "degree":"Bachelors in Computer Science",
         "graduated":"December 2021",
         "description":"Software engineering skills. Focuses on machine learning, data science, and robotics."
