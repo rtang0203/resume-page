@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Tang Project",
+    "name":"Randy Tang",
     "description":"I am a mechanical engineer working on my software and web development skills.",
     "image":"headshot.jpg",
     "bio":"I study computer science and mechanical engineering. I am passionate about design and aesthetics.",
@@ -8,15 +8,15 @@
     "email": "rtang0203@gmail.com",
     "phone": "732-666-2746",
     "github":"https://github.com/rtang0203",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/rtang0203",
     "address":{
       "street":"18 Walnut Ct",
       "city":"Cranbury",
       "state":"NJ",
       "zip": "08512"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.randytang.com",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1CDbSS0zn4tHgK06XSZ2adBUX1hDvUQUz",
     "social":[
       {
         "name":"facebook",
@@ -66,13 +66,13 @@
         "company":"Northrop Grumman",
         "title":"Mechanical Engineer Intern",
         "years":"September 2019 - August 2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":""
       },
       {
         "company":"Asian Bistro",
         "title":"Waiter",
         "years":"March 2015 - May 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":""
       }
     ],
     "skills":[
@@ -82,19 +82,19 @@
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"10%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"20%"
       },
       {
         "name":"PHP",
-        "level":"80%"
+        "level":"10%"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"60%"
       },
       {
         "name":"MATLAB",
@@ -102,7 +102,7 @@
       },
       {
         "name":"CAD",
-        "level":"55%"
+        "level":"75%"
       }
     ]
   },
@@ -137,12 +137,6 @@
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"05.jpg",
         "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
