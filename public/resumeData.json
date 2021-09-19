@@ -110,33 +110,27 @@
     "projects": [
       {
         "title":"Autonomous Robot Control",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
+        "category":"School competition",
+        "image":"robotPath.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {
         "title":"EU Covid Hospitalizations Model",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
+        "category":"Predicting EU Covid Hospitalizations",
+        "image":"covidModel.png",
         "url":"http://www.timbakerdev.com"
       },
       {
         "title":"Antenna Tracker",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
+        "image":"antennaTracker.png",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
         "title":"Hearts and Homes Website",
         "category":"A React based resume website template",
-        "image":"04.jpg",
+        "image":"hhbanner.jpeg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Composites Testing",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
