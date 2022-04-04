@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Randy Tang",
-    "description":"I am a mechanical engineer working on my software and web development skills",
+    "description":"Mechanical/Software Engineer. Building systems in the cloud and IRL.",
     "image":"headshot.jpg",
-    "bio":"I study computer science and mechanical engineering. I am passionate about design and aesthetics.",
+    "bio":"I study computer science and mechanical engineering. I am passionate about design, aesthetics, and growth.",
     "contactmessage":"Contact me! Ask me anything.",
     "email": "rtang0203@gmail.com",
     "phone": "732-666-2746",
@@ -16,7 +16,7 @@
       "zip": "08512"
     },
     "website": "http://www.randytang.com",
-    "resumedownload":"https://drive.google.com/uc?export=download&id=1CDbSS0zn4tHgK06XSZ2adBUX1hDvUQUz",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1ddt1D7ZYhZ_5jqNqSo5ug_oy6SaAMZAq",
     "social":[
       {
         "name":"facebook",
@@ -63,34 +63,35 @@
     ],
     "work":[
       {
+        "company":"Cognizant",
+        "title":"Software Developer",
+        "years":"January 2022 - Current",
+        "description":""
+      },
+      {
         "company":"Northrop Grumman",
         "title":"Mechanical Engineer Intern",
         "years":"September 2019 - August 2020",
         "description":""
-      },
-      {
-        "company":"Asian Bistro",
-        "title":"Waiter",
-        "years":"March 2015 - May 2017",
-        "description":""
       }
+      
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
+        "level":"75%"
       },
       {
-        "name":"ReactJs",
-        "level":"10%"
+        "name":"C#",
+        "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"HTML/CSS/Javascript",
         "level":"20%"
       },
       {
-        "name":"PHP",
-        "level":"10%"
+        "name":"Talking to people",
+        "level":"80%"
       },
       {
         "name":"JAVA",
@@ -122,7 +123,7 @@
       },
       {
         "title":"Antenna Tracker",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"Mechanical design for an automated antenna tracker",
         "image":"antennaTracker.png",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
